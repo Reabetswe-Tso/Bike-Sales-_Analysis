@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Dashboard (Excel)
 
-This project features a dynamic **Excel dashboard** built to uncover insights from a survey dataset on data professionals. It focuses on demographics, salary distribution, role-based comparisons, language preferences, and satisfaction metrics—all visualized using clean and interactive spreadsheet elements.
+This project features a dynamic **Excel dashboard** built to uncover insights from a survey dataset on data professionals. It focuses on demographics, salary distribution, role-based comparisons, language preferences, and satisfaction metrics all visualized using clean and interactive spreadsheet elements.
 
 ---
 
