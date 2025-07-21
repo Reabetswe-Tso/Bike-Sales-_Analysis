@@ -6,9 +6,9 @@ This project features a dynamic **Excel dashboard** built to uncover insights fr
 
 ## Project Overview
 
-- **Tool Used:** Microsoft Excel
-- **Dataset:** Bike_sales.csv
-- **Goal:** To visualize survey results using Excel charts and slicers for clear, interactive storytelling.
+- Tool Used: Microsoft Excel
+- Dataset: Bike_sales.csv
+- Goal: To visualize survey results using Excel charts and slicers for clear, interactive storytelling.
 
 ---
 
@@ -47,7 +47,7 @@ This project features a dynamic **Excel dashboard** built to uncover insights fr
 
 ---
 
-## 🙌 Credits
+## Credits
 
 Created by **Reabetswe Tsotetsi**  
 
