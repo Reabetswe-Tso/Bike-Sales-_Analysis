@@ -1,14 +1,15 @@
-# 📊 Data Professional Survey Dashboard (Excel)
+#  Bike Sales Dashboard (Excel)
 
-This project features a dynamic **Excel dashboard** built to uncover insights from a survey dataset on data professionals. It focuses on demographics, salary distribution, role-based comparisons, language preferences, and satisfaction metrics all visualized using clean and interactive spreadsheet elements.
+This project presents a clean and interactive **Excel dashboard** visualizing bike sales performance across regions, product categories, and customer segments. Built using Microsoft Excel, the dashboard enables stakeholders to gain actionable insights through intuitive charts and slicers.
 
 ---
 
 ## Project Overview
 
 - Tool Used: Microsoft Excel
-- Dataset: Bike_sales.csv
-- Goal: To visualize survey results using Excel charts and slicers for clear, interactive storytelling.
+- Dataset: BikeSalesData.csv (or equivalent)
+- Goal: To analyze and communicate trends in bike sales using dynamic Excel visuals.
+
 
 ---
 
