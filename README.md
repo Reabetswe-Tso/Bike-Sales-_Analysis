@@ -15,11 +15,11 @@ This project presents a clean and interactive **Excel dashboard** visualizing bi
 
 ## Dashboard Highlights
 
-- ** Country Representation:** Pie chart showing respondent distribution by country.
-- ** Roles & Salaries:** Bar charts comparing average salaries across job functions.
-- ** Language Preferences:** Column chart showcasing popularity of programming languages.
-- ** Satisfaction Metrics:** Gauge-style visuals (simulated) for salary and work-life balance feedback.
-- ** Gender-Based Comparisons:** Gender-based average salaries shown via pie charts.
+-  Country Representation: Pie chart showing respondent distribution by country.
+-  Roles & Salaries: Bar charts comparing average salaries across job functions.
+-  Language Preferences: Column chart showcasing popularity of programming languages.
+-  Satisfaction Metrics: Gauge-style visuals (simulated) for salary and work-life balance feedback.
+-  Gender-Based Comparisons: Gender-based average salaries shown via pie charts.
   <img width="982" height="750" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/1f552ca3-ddb1-4590-aa5f-8ca69cfa952f" />
 
 
